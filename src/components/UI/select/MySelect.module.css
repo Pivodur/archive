@@ -1,0 +1,12 @@
+.mySelect {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 16px;
+    outline: none;
+    cursor: pointer;
+    background-color: rgba(244, 192, 149, .3);
+    border: transparent;
+}
